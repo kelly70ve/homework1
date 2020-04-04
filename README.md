@@ -23,7 +23,7 @@
 - ``<nav>`` as a list of links that go to the different pages of the website.
 
 ### Resources
-- [HTML STructure](https://marksheet.io/html-structure.html)
+- [HTML Structure](https://marksheet.io/html-structure.html)
 - [ALT Tags for the Visually Impared](https://axesslab.com/alt-texts/)
 
 - - -
